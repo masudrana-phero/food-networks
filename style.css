@@ -1,0 +1,212 @@
+/*================
+ common css starts
+================= */
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+/*================
+ common css ends
+================= */
+
+/*================
+ food_network starts
+================= */
+#food_network{
+    width: 100%;
+    padding: 100px 0;
+}
+.inner_food_network{
+    overflow: hidden;
+}
+.description_area {
+	width: 45%;
+	float: left;
+	padding-top: 152px;
+}
+.description_area h1{
+    font-size: 46px;
+    margin: 0;
+}
+.description_area span{
+    color: orange;
+}
+.description_area p {
+	font-size: 16px;
+	color: #777;
+}
+.description_area a{
+    display: block;
+    background-image: linear-gradient(orange, orangered);
+    width: 150px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    border-radius: 25px;
+    padding:10px;
+    text-decoration: none;
+}
+
+
+.image_area{
+    width: 45%;
+    float: right;
+}
+.image_area img{
+    width: 600px;
+    height: auto;
+}
+
+
+/* about me starts here  */
+#about_me_area{
+    width: 100%;
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+}
+.inner_about{
+    overflow: hidden;
+    margin-top: 15px;
+}
+.my_image{
+    width: 50%;
+    float: left;
+}
+.my_image img{
+    width: 500px;
+    height: auto;
+}
+.about_me{
+    width: 50%;
+    float: right;
+}
+.about_me h1{
+    font-size: 46px;
+}
+.about_me p{
+    font-size: 16px;
+    color: #666;
+}
+.about_me a{
+        display: block;
+        background-image: linear-gradient(orange, orangered);
+        width: 150px;
+        font-size: 16px;
+        color: #fff;
+        text-align: center;
+        border-radius: 25px;
+        padding:10px;
+        text-decoration: none;
+        margin-top: 50px;
+}
+
+
+/* about me ends here  */
+
+#my_recipie {
+	width: 100%;
+	clear: both;
+	background: #14141414;
+	padding-bottom: 40px;
+}
+.inner_my_recipie{
+    overflow: hidden;
+}
+.inner_my_recipie h1{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.inner_my_recipie p{
+    font-size: 18px;
+    color: #888;
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.recipie_item p {
+	font-size: 16px;
+	color: #888;
+	text-align: center;
+	display: inline;
+}
+.recipie{
+    width: 100%;
+    overflow: hidden;
+}
+.recipie_item{
+    width: 29%;
+    float: left;
+    background: #fff;
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.recipie_item img {
+	width: 335px;
+	height: auto;
+	background: #fff;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+
+.counting_area {
+	width: 97%;
+	background: #ffff;
+	margin: 26px 0;
+	border-radius: 20px;
+}
+.inner_counter{
+    overflow: hidden;
+}
+.same{
+    width: 33%;
+    float: left;
+}
+.same p {
+	text-align: center;
+	width: 41%;
+	font-size: 14px;
+}
+
+
+/* footer top starts here  */
+#footer_top{
+    width: 100%;
+    background: #000;
+    padding: 30px 0;
+}
+
+.inner_footer h1{
+    font-size: 45px;
+    color: #ffff;
+    margin: 0;
+    text-align: center;
+}
+.inner_footer span{
+    color: orange;
+}
+.inner_footer p{
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+
+/* footer area starts  */
+
+#footer_area h3{
+    text-align: center;
+}
+
+
