@@ -1,6 +1,6 @@
-/*================
- common css starts
-================= */
+
+ /* common css starts */
+
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
@@ -12,13 +12,12 @@ body{
     margin: 0 auto;
 }
 
-/*================
- common css ends
-================= */
 
-/*================
- food_network starts
-================= */
+ /* common css ends */
+
+
+ /* food_network starts */
+
 #food_network{
     width: 100%;
     padding: 100px 0;
@@ -110,6 +109,9 @@ body{
 
 /* about me ends here  */
 
+
+/* my_recipie starts here  */
+
 #my_recipie {
 	width: 100%;
 	clear: both;
@@ -178,7 +180,7 @@ body{
 	width: 41%;
 	font-size: 14px;
 }
-
+/* my_recipie ends here  */
 
 /* footer top starts here  */
 #footer_top{
